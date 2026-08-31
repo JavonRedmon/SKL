@@ -1,2 +1,0 @@
-# SKL
-Clothing Site
